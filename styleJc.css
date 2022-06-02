@@ -14,7 +14,7 @@ html{
 
 
 
-@media only screen and (min-width: 360px) and (max-width: 410px) {
+@media only screen and (min-width: 360px) and (max-width: 412px) {
 
    
 
@@ -306,10 +306,10 @@ color: white;
 // =================================================================
 */
 
-@media only screen and (min-width: 412px) {
+@media only screen and (min-width: 413px) {
 
    
-    }
+    
 
 /*
 nav {
@@ -590,4 +590,6 @@ font-size: 18px;
 
 .exp1{
     color: white;
+}
+
 }
