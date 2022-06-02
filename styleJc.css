@@ -300,6 +300,85 @@ font-size: 18px;
 color: white;
 }
 
+.acerca {
+    color:#34b0be;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.acercaP{
+    color: white;
+    font-size:16px;
+    font-weight: lighter;
+  
+    
+}
+
+.acercaTexto{
+    justify-content: center;
+    display: flex;
+    margin: 30px 30px;
+}
+
+.servicios{
+    color:#34b0be;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.desingBox{
+    width: 80%;
+    height: 20%;
+    padding: 80px;
+    margin: 40px;
+    display: grid;
+    background-image: url(./Vectores/Ellipse\ 14.svg);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    background-color: white;
+    justify-content: center;
+}
+
+.desingLogo{
+    display: flex;
+    justify-content: center;
+}
+
+.desingTitle{
+    font-weight: bold;
+    color: black;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    margin-top: 15px;
+    font-size: 18px;
+  }
+
+
+.desingText{
+    font-weight: lighter;
+    color: #d1ceca;
+    display: grid;
+    align-items: center;
+    width: 200px;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
 }
 
 /*
