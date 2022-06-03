@@ -309,6 +309,7 @@ color: white;
     font-weight: bold;
     display: flex;
     justify-content: center;
+    margin-top: 80px;
     
 }
 
@@ -333,6 +334,7 @@ color: white;
     font-weight: bold;
     display: flex;
     justify-content: center;
+    margin-top: 80px;
 }
 
 
@@ -392,7 +394,43 @@ color: white;
     font-weight: bold;
     display: flex;
     justify-content: center;
+    margin-top: 80px;
 }
+
+
+/* background: */
+progress::-webkit-progress-bar {
+    background-color: #f9f5f2; 
+    height: 1.25rem;
+    width: 100%;
+    border-radius: 1rem;
+}
+progress {
+    width: 100%;
+    border-radius: 1rem;
+    background-color: #f9f5f2;
+    height: 1.25rem;
+    border-radius: 1rem;
+    color: #34b0be;
+    display:flex;
+}
+
+/* value: */
+progress::-webkit-progress-value {
+    background-color: #34b0be;
+    border-radius: 1rem;
+}
+progress::-moz-progress-bar {
+    background-color: #34b0be;
+    border-radius: 1rem;
+}
+
+
+
+
+
+
+
 
 
 .porta{
@@ -402,6 +440,7 @@ color: white;
     font-weight: bold;
     display: flex;
     justify-content: center;
+    margin-top: 80px;
 }
 
 .imgPortafolio{
@@ -422,6 +461,7 @@ color: white;
     font-weight: bold;
     display: flex;
     justify-content: center;
+    margin-top: 80px;
 }
 
 
