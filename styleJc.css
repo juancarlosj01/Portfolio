@@ -335,9 +335,20 @@ color: white;
     justify-content: center;
 }
 
+
+
+.caja{
+   
+    display: flex;
+    gap: 4rem;
+    height: 450px;
+    overflow-y: hidden; 
+    overflow-x: auto;
+}
+
 .desingBox{
     width: 80%;
-    height: 20%;
+    height: 80%;
     padding: 80px;
     margin: 40px;
     display: grid;
@@ -366,7 +377,7 @@ color: white;
 
 
 .desingText{
-    font-weight: lighter;
+    
     color: #d1ceca;
     display: grid;
     align-items: center;
@@ -393,6 +404,14 @@ color: white;
     justify-content: center;
 }
 
+.imgPortafolio{
+    margin: 30px 30px;
+    display: flex;
+    gap: 4rem;
+    height: 450px;
+    overflow-y: hidden; 
+    overflow-x: auto;
+}
 
 
 
